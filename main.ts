@@ -1,5 +1,7 @@
 const demo = () => {
-    return []
+    return [
+        0,9
+    ]
 }
 
 demo()
